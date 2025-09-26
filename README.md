@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt= "MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%23092E20?style=for-the-badge&logo=MongoDB" alt= "MongoDB">
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" alt= "Docker">
-  <a href = "mailto:eduardo.gabriel.diniz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardoaiasi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
 <br>
 
 
